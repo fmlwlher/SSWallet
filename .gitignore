@@ -1,0 +1,17 @@
+Release
+Debug
+GeneratedFiles
+
+# Compiled Object files
+*.obj
+
+# Precompiled Headers
+
+# Compiled Dynamic libraries
+
+# Fortran module files
+
+# Compiled Static libraries
+
+# Executables
+*.exe
