@@ -234,7 +234,7 @@ int main(int argc, char *argv[])
 	QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
 #endif
 	QApplication a(argc, argv);
-
+	a.setWindowIcon(QIcon("pic2/SSC.ico"));
 #ifdef WIN32
 	refreshIcon();  //zxlwin
 	SetUnhandledExceptionFilter(TopLevelExceptionFilter);  //zxlwin

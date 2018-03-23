@@ -1,5 +1,4 @@
-Release
-Debug
+_Intel_gen_file_
 GeneratedFiles
 
 # Compiled Object files
@@ -14,5 +13,4 @@ GeneratedFiles
 # Compiled Static libraries
 
 # Executables
-*.exe
 *.sdf

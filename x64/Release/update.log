@@ -1,0 +1,3533 @@
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:0
+new version: 2018022809,cur version: 0
+begin findUpdateIndex
+ befor findUpdateIndex update_count: 0
+findUpdateIndex E:/AchainWallet/x64/Release/Achain.exe
+findUpdateIndex cur version:1.0.7.0
+findUpdateIndex new version:1.0.7.0
+findUpdateIndex 0<=version update_count: 1
+findUpdateIndex E:/AchainWallet/x64/Release/ALLchain-c.exe
+findUpdateIndex cur version:
+findUpdateIndex new version:
+file path:E:/AchainWallet/x64/Release/ALLchain-c.exe
+cur MD5:
+new MD5:5ad2f0675e792938cf38e01e6a0cf00e
+end findUpdateIndex
+update_count: 1,file_count: 4
+download next file:/update/SSC/ALLchain-c.exe.5ad2f0675e792938cf38e01e6a0cf00e.zip
+download:/update/SSC/ALLchain-c.exe.5ad2f0675e792938cf38e01e6a0cf00e.zip
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/ALLchain-c.exe.5ad2f0675e792938cf38e01e6a0cf00e.zip
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/ALLchain-c.exe.5ad2f0675e792938cf38e01e6a0cf00e.zip update_count: 2
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/ALLchain-c.exe.5ad2f0675e792938cf38e01e6a0cf00e.zipbefore findUpdateIndex  update_count: 2
+findUpdateIndex E:/AchainWallet/x64/Release/testfile/file1.txt
+findUpdateIndex cur version:
+findUpdateIndex new version:
+file path:E:/AchainWallet/x64/Release/testfile/file1.txt
+cur MD5:
+new MD5:d41d8cd98f00b204e9800998ecf8427e
+download:/update/SSC/testfile/file1.txt.d41d8cd98f00b204e9800998ecf8427e.zip
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/testfile/file1.txt.d41d8cd98f00b204e9800998ecf8427e.zip
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/testfile/file1.txt.d41d8cd98f00b204e9800998ecf8427e.zip update_count: 3
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/testfile/file1.txt.d41d8cd98f00b204e9800998ecf8427e.zipbefore findUpdateIndex  update_count: 3
+findUpdateIndex E:/AchainWallet/x64/Release/testfile/file2.txt
+findUpdateIndex cur version:
+findUpdateIndex new version:
+file path:E:/AchainWallet/x64/Release/testfile/file2.txt
+cur MD5:
+new MD5:d41d8cd98f00b204e9800998ecf8427e
+download:/update/SSC/testfile/file2.txt.d41d8cd98f00b204e9800998ecf8427e.zip
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/testfile/file2.txt.d41d8cd98f00b204e9800998ecf8427e.zip
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/testfile/file2.txt.d41d8cd98f00b204e9800998ecf8427e.zip update_count: 4
+new start
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:0
+new version: 2018022809,cur version: 0
+begin findUpdateIndex
+ befor findUpdateIndex update_count: 0
+findUpdateIndex E:/SelfSellWallet/x64/Release/Achain.exe
+findUpdateIndex cur version:
+findUpdateIndex new version:1.0.7.0
+file path:E:/SelfSellWallet/x64/Release/Achain.exe
+cur MD5:
+new MD5:043aa08623537b1ff13a9bc5d180a342
+end findUpdateIndex
+update_count: 0,file_count: 4
+download next file:/update/SSC/Achain.exe.043aa08623537b1ff13a9bc5d180a342.zip
+download:/update/SSC/Achain.exe.043aa08623537b1ff13a9bc5d180a342.zip
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/Achain.exe.043aa08623537b1ff13a9bc5d180a342.zip
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/Achain.exe.043aa08623537b1ff13a9bc5d180a342.zip update_count: 1
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/Achain.exe.043aa08623537b1ff13a9bc5d180a342.zipbefore findUpdateIndex  update_count: 1
+findUpdateIndex E:/SelfSellWallet/x64/Release/ALLchain-c.exe
+findUpdateIndex cur version:
+findUpdateIndex new version:
+file path:E:/SelfSellWallet/x64/Release/ALLchain-c.exe
+cur MD5:
+new MD5:5ad2f0675e792938cf38e01e6a0cf00e
+download:/update/SSC/ALLchain-c.exe.5ad2f0675e792938cf38e01e6a0cf00e.zip
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/ALLchain-c.exe.5ad2f0675e792938cf38e01e6a0cf00e.zip
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/ALLchain-c.exe.5ad2f0675e792938cf38e01e6a0cf00e.zip update_count: 2
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/ALLchain-c.exe.5ad2f0675e792938cf38e01e6a0cf00e.zipbefore findUpdateIndex  update_count: 2
+findUpdateIndex E:/SelfSellWallet/x64/Release/testfile/file1.txt
+findUpdateIndex cur version:
+findUpdateIndex new version:
+file path:E:/SelfSellWallet/x64/Release/testfile/file1.txt
+cur MD5:
+new MD5:d41d8cd98f00b204e9800998ecf8427e
+download:/update/SSC/testfile/file1.txt.d41d8cd98f00b204e9800998ecf8427e.zip
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/testfile/file1.txt.d41d8cd98f00b204e9800998ecf8427e.zip
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/testfile/file1.txt.d41d8cd98f00b204e9800998ecf8427e.zip update_count: 3
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/testfile/file1.txt.d41d8cd98f00b204e9800998ecf8427e.zipbefore findUpdateIndex  update_count: 3
+findUpdateIndex E:/SelfSellWallet/x64/Release/testfile/file2.txt
+findUpdateIndex cur version:
+findUpdateIndex new version:
+file path:E:/SelfSellWallet/x64/Release/testfile/file2.txt
+cur MD5:
+new MD5:d41d8cd98f00b204e9800998ecf8427e
+download:/update/SSC/testfile/file2.txt.d41d8cd98f00b204e9800998ecf8427e.zip
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/testfile/file2.txt.d41d8cd98f00b204e9800998ecf8427e.zip
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/2018022809/testfile/file2.txt.d41d8cd98f00b204e9800998ecf8427e.zip update_count: 4
+new start
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest
+new start
+download
+download:/update/config.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/config.json update_count: 0
+download config.json succ!
+version:1.0.5.0
+version not empty
+download next file:/update/file_index.json
+download:/update/file_index.json
+down finishC:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json
+C:/Users/wanglihui/AppData/Roaming/SSCUpdate/file_index.json update_count: 0
+download file_index.json succ!
+new version:2018022809
+cur version:2018022809
+new version: 2018022809,cur version: 2018022809
+version is latest

@@ -1,0 +1,364 @@
+﻿生成启动时间为 2018/3/16 9:39:25。
+     1>项目“E:\AchainWallet\AchainWallet.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (AchainWallet.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Qt\Qt5.7.1\5.7\msvc2013_64\include /IC:\Qt\Qt5.7.1\5.7\msvc2013_64\include\QtWidgets /IC:\Qt\Qt5.7.1\5.7\msvc2013_64\include\QtGui /IC:\Qt\Qt5.7.1\5.7\msvc2013_64\include\QtANGLE /IC:\Qt\Qt5.7.1\5.7\msvc2013_64\include\QtXml /IC:\Qt\Qt5.7.1\5.7\msvc2013_64\include\QtNetwork /IC:\Qt\Qt5.7.1\5.7\msvc2013_64\include\QtCore /Idebug /I. /I"C:\Qt\Qt5.7.1\5.7\msvc2013_64\mkspecs\win32-msvc2013" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /MP /Od /D _WINDOWS /D UNICODE /D WIN32 /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_XML_LIB /D QT_NETWORK_LIB /D QT_CORE_LIB /D WIN64 /D _UNICODE /D UNICODE /Gm /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt -Zm200 -w34100 -w34189 accountcellwidget.cpp accountpage.cpp addcontactdialog.cpp addnodedialog.cpp applydelegatepage.cpp blockchain.cpp bottombar.cpp chooseupgradedialog.cpp commandjson.cpp commondialog.cpp commontip.cpp consoledialog.cpp contactdialog.cpp contactpage.cpp contract.cpp control\accountdetailwidget.cpp control\chooseaddaccountdialog.cpp control\myprogressbar.cpp control\qrcodewidget.cpp control\remarkcellwidget.cpp control\rightclickmenudialog.cpp control\shadowwidget.cpp control\showbottombarwidget.cpp datamgr.cpp debug_log.cpp deleteaccountdialog.cpp dialog\chooseexportdialog.cpp dialog\renamedialog.cpp editremarkdialog.cpp exportdialog.cpp extra\dynamicmove.cpp firstlogin.cpp frame.cpp functionbar.cpp goopal.cpp identitycellwidget.cpp importdialog.cpp incomecellwidget.cpp ipcellwidget.cpp lockpage.cpp main.cpp mainpage.cpp misc.cpp namedialog.cpp newsdialog.cpp normallogin.cpp outputmessage.cpp peerinfodialog.cpp remarkdialog.cpp rpcmgr.cpp searchoptionwidget.cpp selectgoppathwidget.cpp setdialog.cpp showcontentdialog.cpp singlecontactwidget.cpp sundry.cpp titlebar.cpp tokentransaction.cpp transferconfirmdialog.cpp transferpage.cpp upgradepage.cpp waitingforsync.cpp waitingpage.cpp wallet.cpp workerthread.cpp workerthreadmanager.cpp
+     1>cl : 命令行 warning D9030: “/Gm”与多处理不兼容；忽略 /MP 开关
+         accountcellwidget.cpp
+     1>accountcellwidget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>accountcellwidget.cpp(57): warning C4100: “e”: 未引用的形参
+         正在生成代码...
+         正在编译...
+         accountpage.cpp
+     1>accountpage.cpp(368): warning C4100: “index”: 未引用的形参
+     1>accountpage.cpp(579): warning C4189: “amount”: 局部变量已初始化但不引用
+     1>accountpage.cpp(762): warning C4100: “column”: 未引用的形参
+     1>accountpage.cpp(762): warning C4100: “row”: 未引用的形参
+         正在生成代码...
+         正在编译...
+         addcontactdialog.cpp
+     1>addcontactdialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>addcontactdialog.cpp(27): warning C4129: “-”: 不可识别的字符转义序列
+     1>addcontactdialog.cpp(27): warning C4129: “.”: 不可识别的字符转义序列
+     1>addcontactdialog.cpp(27): warning C4129: “ ”: 不可识别的字符转义序列
+     1>addcontactdialog.cpp(100): warning C4100: “arg1”: 未引用的形参
+         正在生成代码...
+         正在编译...
+         addnodedialog.cpp
+     1>addnodedialog.cpp(32): warning C4129: “.”: 不可识别的字符转义序列
+         正在生成代码...
+         正在编译...
+         applydelegatepage.cpp
+         正在生成代码...
+         正在编译...
+         bottombar.cpp
+     1>e:\achainwallet\bottombar.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\achainwallet\extra/dynamicmove.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>bottombar.cpp(177): warning C4189: “scanPercent”: 局部变量已初始化但不引用
+     1>bottombar.cpp(201): warning C4100: “e”: 未引用的形参
+     1>bottombar.cpp(207): warning C4100: “e”: 未引用的形参
+         正在生成代码...
+         正在编译...
+         chooseupgradedialog.cpp
+     1>chooseupgradedialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         commondialog.cpp
+         正在生成代码...
+         正在编译...
+         commontip.cpp
+         正在生成代码...
+         正在编译...
+         consoledialog.cpp
+         正在生成代码...
+         正在编译...
+         contactdialog.cpp
+     1>contactdialog.cpp(73): warning C4100: “column”: 未引用的形参
+     1>contactdialog.cpp(86): warning C4100: “column”: 未引用的形参
+         正在生成代码...
+         正在编译...
+         contactpage.cpp
+         正在生成代码...
+         正在编译...
+         accountdetailwidget.cpp
+     1>control\accountdetailwidget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\achainwallet\control\../extra/dynamicmove.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         chooseaddaccountdialog.cpp
+     1>control\chooseaddaccountdialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         remarkcellwidget.cpp
+         正在生成代码...
+         正在编译...
+         rightclickmenudialog.cpp
+         正在生成代码...
+         正在编译...
+         shadowwidget.cpp
+         正在生成代码...
+         正在编译...
+         deleteaccountdialog.cpp
+         正在生成代码...
+         正在编译...
+         chooseexportdialog.cpp
+     1>dialog\chooseexportdialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         renamedialog.cpp
+     1>dialog\renamedialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         editremarkdialog.cpp
+     1>editremarkdialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         exportdialog.cpp
+         正在生成代码...
+         正在编译...
+         firstlogin.cpp
+     1>firstlogin.cpp(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>firstlogin.cpp(68): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>firstlogin.cpp(281): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>firstlogin.cpp(293): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+         正在生成代码...
+         正在编译...
+         functionbar.cpp
+     1>e:\achainwallet\extra/dynamicmove.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         importdialog.cpp
+         正在生成代码...
+         正在编译...
+         incomecellwidget.cpp
+         正在生成代码...
+         正在编译...
+         ipcellwidget.cpp
+     1>ipcellwidget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         lockpage.cpp
+     1>lockpage.cpp(8): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>lockpage.cpp(68): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>lockpage.cpp(315): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>lockpage.cpp(327): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+         正在生成代码...
+         正在编译...
+         mainpage.cpp
+     1>mainpage.cpp(273): warning C4100: “column”: 未引用的形参
+     1>mainpage.cpp(300): warning C4100: “column”: 未引用的形参
+         正在生成代码...
+         正在编译...
+         namedialog.cpp
+     1>namedialog.cpp(172): warning C4100: “arg1”: 未引用的形参
+         正在生成代码...
+         正在编译...
+         newsdialog.cpp
+     1>newsdialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         normallogin.cpp
+     1>normallogin.cpp(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>normallogin.cpp(75): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>normallogin.cpp(332): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>normallogin.cpp(344): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+         正在生成代码...
+         正在编译...
+         peerinfodialog.cpp
+     1>peerinfodialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         remarkdialog.cpp
+     1>remarkdialog.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         searchoptionwidget.cpp
+         正在生成代码...
+         正在编译...
+         selectgoppathwidget.cpp
+         正在生成代码...
+         正在编译...
+         setdialog.cpp
+     1>e:\achainwallet\frame.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         showcontentdialog.cpp
+         正在生成代码...
+         正在编译...
+         singlecontactwidget.cpp
+         正在生成代码...
+         正在编译...
+         titlebar.cpp
+     1>e:\achainwallet\titlebar.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         transferconfirmdialog.cpp
+         正在生成代码...
+         正在编译...
+         transferpage.cpp
+     1>transferpage.cpp(105): warning C4129: “-”: 不可识别的字符转义序列
+     1>transferpage.cpp(105): warning C4129: “.”: 不可识别的字符转义序列
+     1>transferpage.cpp(105): warning C4129: “ ”: 不可识别的字符转义序列
+     1>transferpage.cpp(427): warning C4100: “arg1”: 未引用的形参
+     1>transferpage.cpp(436): warning C4189: “dBalance”: 局部变量已初始化但不引用
+     1>transferpage.cpp(431): warning C4189: “fee”: 局部变量已初始化但不引用
+     1>transferpage.cpp(463): warning C4100: “arg1”: 未引用的形参
+     1>transferpage.cpp(781): warning C4100: “arg1”: 未引用的形参
+         正在生成代码...
+         正在编译...
+         upgradepage.cpp
+     1>upgradepage.cpp(160): warning C4100: “w”: 未引用的形参
+     1>upgradepage.cpp(198): warning C4100: “arg1”: 未引用的形参
+         正在生成代码...
+         正在编译...
+         waitingforsync.cpp
+     1>waitingforsync.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+         正在编译...
+         waitingpage.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         workerthreadmanager.cpp
+         workerthread.cpp
+         wallet.cpp
+         tokentransaction.cpp
+         sundry.cpp
+         rpcmgr.cpp
+         outputmessage.cpp
+         misc.cpp
+         main.cpp
+         identitycellwidget.cpp
+         goopal.cpp
+         frame.cpp
+         dynamicmove.cpp
+         debug_log.cpp
+         datamgr.cpp
+         showbottombarwidget.cpp
+         qrcodewidget.cpp
+         myprogressbar.cpp
+         contract.cpp
+         commandjson.cpp
+         blockchain.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\AchainWallet\x64\Debug\\SSCWallet.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Qt\Qt5.7.1\5.7\msvc2013_64\lib /LIBPATH:E:\AchainWallet\ qtmaind.lib shell32.lib Qt5Cored.lib DbgHelp.lib User32.Lib E:\AchainWallet\\qrencode.lib imm32.lib Qt5Widgetsd.lib Qt5Guid.lib Qt5Xmld.lib Qt5Networkd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\AchainWallet\x64\Debug\SSCWallet.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X64 "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'"  /SUBSYSTEM:WINDOWS x64\Debug\logo.res
+         x64\Debug\accountcellwidget.obj
+         x64\Debug\blockchain.obj
+         x64\Debug\commandjson.obj
+         x64\Debug\contract.obj
+         x64\Debug\accountdetailwidget.obj
+         x64\Debug\accountpage.obj
+         x64\Debug\addcontactdialog.obj
+         x64\Debug\addnodedialog.obj
+         x64\Debug\applydelegatepage.obj
+         x64\Debug\bottombar.obj
+         x64\Debug\chooseaddaccountdialog.obj
+         x64\Debug\datamgr.obj
+         x64\Debug\moc_accountcellwidget.obj
+         x64\Debug\moc_accountdetailwidget.obj
+         x64\Debug\moc_accountpage.obj
+         x64\Debug\moc_addcontactdialog.obj
+         x64\Debug\moc_addnodedialog.obj
+         x64\Debug\moc_applydelegatepage.obj
+         x64\Debug\moc_bottombar.obj
+         x64\Debug\moc_chooseaddaccountdialog.obj
+         x64\Debug\moc_chooseexportdialog.obj
+         x64\Debug\moc_chooseupgradedialog.obj
+         x64\Debug\moc_commondialog.obj
+         x64\Debug\moc_commontip.obj
+         x64\Debug\moc_consoledialog.obj
+         x64\Debug\moc_contactdialog.obj
+         x64\Debug\moc_contactpage.obj
+         x64\Debug\moc_datamgr.obj
+         x64\Debug\moc_deleteaccountdialog.obj
+         x64\Debug\moc_dynamicmove.obj
+         x64\Debug\moc_editremarkdialog.obj
+         x64\Debug\moc_exportdialog.obj
+         x64\Debug\moc_firstlogin.obj
+         x64\Debug\moc_frame.obj
+         x64\Debug\moc_functionbar.obj
+         x64\Debug\moc_goopal.obj
+         x64\Debug\moc_importdialog.obj
+         x64\Debug\moc_incomecellwidget.obj
+         x64\Debug\moc_ipcellwidget.obj
+         x64\Debug\moc_lockpage.obj
+         x64\Debug\moc_mainpage.obj
+         x64\Debug\moc_myprogressbar.obj
+         x64\Debug\moc_namedialog.obj
+         x64\Debug\moc_newsdialog.obj
+         x64\Debug\moc_normallogin.obj
+         x64\Debug\moc_peerinfodialog.obj
+         x64\Debug\moc_qrcodewidget.obj
+         x64\Debug\moc_remarkcellwidget.obj
+         x64\Debug\moc_remarkdialog.obj
+         x64\Debug\moc_renamedialog.obj
+         x64\Debug\moc_rightclickmenudialog.obj
+         x64\Debug\moc_rpcmgr.obj
+         x64\Debug\moc_searchoptionwidget.obj
+         x64\Debug\moc_selectgoppathwidget.obj
+         x64\Debug\moc_setdialog.obj
+         x64\Debug\moc_shadowwidget.obj
+         x64\Debug\moc_showbottombarwidget.obj
+         x64\Debug\moc_showcontentdialog.obj
+         x64\Debug\moc_singlecontactwidget.obj
+         x64\Debug\moc_titlebar.obj
+         x64\Debug\moc_tokentransaction.obj
+         x64\Debug\moc_transferconfirmdialog.obj
+         x64\Debug\moc_transferpage.obj
+         x64\Debug\moc_upgradepage.obj
+         x64\Debug\moc_waitingforsync.obj
+         x64\Debug\moc_waitingpage.obj
+         x64\Debug\moc_workerthread.obj
+         x64\Debug\moc_workerthreadmanager.obj
+         x64\Debug\deleteaccountdialog.obj
+         x64\Debug\chooseexportdialog.obj
+         x64\Debug\chooseupgradedialog.obj
+         x64\Debug\commondialog.obj
+         x64\Debug\commontip.obj
+         x64\Debug\consoledialog.obj
+         x64\Debug\contactdialog.obj
+         x64\Debug\contactpage.obj
+         x64\Debug\debug_log.obj
+         x64\Debug\dynamicmove.obj
+         x64\Debug\editremarkdialog.obj
+         x64\Debug\exportdialog.obj
+         x64\Debug\firstlogin.obj
+         x64\Debug\frame.obj
+         x64\Debug\functionbar.obj
+         x64\Debug\goopal.obj
+         x64\Debug\identitycellwidget.obj
+         x64\Debug\importdialog.obj
+         x64\Debug\incomecellwidget.obj
+         x64\Debug\ipcellwidget.obj
+         x64\Debug\lockpage.obj
+         x64\Debug\main.obj
+         x64\Debug\mainpage.obj
+         x64\Debug\myprogressbar.obj
+         x64\Debug\misc.obj
+         x64\Debug\namedialog.obj
+         x64\Debug\newsdialog.obj
+         x64\Debug\normallogin.obj
+         x64\Debug\outputmessage.obj
+         x64\Debug\peerinfodialog.obj
+         x64\Debug\qrcodewidget.obj
+         x64\Debug\remarkcellwidget.obj
+         x64\Debug\remarkdialog.obj
+         x64\Debug\renamedialog.obj
+         x64\Debug\rightclickmenudialog.obj
+         x64\Debug\rpcmgr.obj
+         x64\Debug\searchoptionwidget.obj
+         x64\Debug\selectgoppathwidget.obj
+         x64\Debug\setdialog.obj
+         x64\Debug\shadowwidget.obj
+         x64\Debug\showbottombarwidget.obj
+         x64\Debug\showcontentdialog.obj
+         x64\Debug\singlecontactwidget.obj
+         x64\Debug\titlebar.obj
+         x64\Debug\tokentransaction.obj
+         x64\Debug\transferconfirmdialog.obj
+         x64\Debug\transferpage.obj
+         x64\Debug\sundry.obj
+         x64\Debug\upgradepage.obj
+         x64\Debug\waitingforsync.obj
+         x64\Debug\waitingpage.obj
+         x64\Debug\wallet.obj
+         x64\Debug\workerthread.obj
+         x64\Debug\workerthreadmanager.obj
+         AchainWallet.vcxproj -> E:\AchainWallet\x64\Debug\SSCWallet.exe
+       PostBuildEvent:
+         call "E:\AchainWallet\scripts\copyifnewer.bat" "E:\AchainWallet\"
+         :VCEnd
+         ECHO 处于打开状态。
+         Comparing two files: 
+         "E:\AchainWallet\"
+         Copying gop_English.qm over "E:\AchainWallet\"language\gop_English.qm
+         E:\AchainWallet\gop_English.qm -> E:\AchainWallet\language\gop_English.qm
+         复制了 1 个文件
+         Copying gop_simplified_Chinese.qm  "E:\AchainWallet\"language\gop_simplified_Chinese.qm
+         E:\AchainWallet\gop_simplified_Chinese.qm -> E:\AchainWallet\language\gop_simplified_Chinese.qm
+         复制了 1 个文件
+         Done.
+     1>已完成生成项目“E:\AchainWallet\AchainWallet.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:10.17

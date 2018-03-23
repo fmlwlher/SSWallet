@@ -15,7 +15,7 @@ LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
 
 // Icon with lowest ID value placed first to ensure application icon
 // remains consistent on all systems.
-IDI_ICON1               ICON                    "pic2\\SSC.ico"
+IDI_ICON1               ICON                    "SSC.ico"
 
 #ifdef APSTUDIO_INVOKED
 /////////////////////////////////////////////////////////////////////////////
@@ -64,11 +64,11 @@ BEGIN
     BEGIN
         BLOCK "080404b0"
         BEGIN
-            VALUE "FileDescription", "SSCWallet.exe"
+            VALUE "FileDescription", "SelfSellWallet.exe"
             VALUE "FileVersion", "1.0.7.0"
-            VALUE "InternalName", "SSCWallet.exe"
+            VALUE "InternalName", "SelfSellWallet.exe"
             VALUE "LegalCopyright", "Copyright (C) 2017"
-            VALUE "ProductName", "SSCWallet.exe"
+            VALUE "ProductName", "SelfSellWallet.exe"
             VALUE "ProductVersion", "1.0.7.0"
         END
     END
